@@ -118,7 +118,7 @@ CSA makes the AICM freely available for download from its website. CSA's website
 
 This specification therefore references AICM identifiers, domain names, pillar names, and structural terms only. It does not reproduce, translate, or redistribute AICM content, and it does not use CSA logos. Requests for uses not covered by CSA's terms SHOULD be directed to CSA.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Where upstream material is copyrighted or access-controlled, contributors MUST NOT copy protected normative text into this repository merely to make the mapping self-contained. Reference identifiers and independently authored descriptions should be used where legally appropriate.
 
@@ -130,7 +130,7 @@ No AICM-specific attribution text could be confirmed from a public CSA page at t
 
 Recommended citation: Cloud Security Alliance, *AI Controls Matrix (AICM) v1.1*, released June 22, 2026, https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1.
 
-If any portion of AICM text is quoted under fair use, it MUST be attributed to the Cloud Security Alliance AI Controls Matrix and the applicable version, consistent with CSA's terms. This specification reproduces only identifiers, names, and structural terms, so no CSA content is redistributed, modified, or reLicensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+If any portion of AICM text is quoted under fair use, it MUST be attributed to the Cloud Security Alliance AI Controls Matrix and the applicable version, consistent with CSA's terms. This specification reproduces only identifiers, names, and structural terms, so no CSA content is redistributed, modified, or reLicensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 ## 11. Versioning
 
